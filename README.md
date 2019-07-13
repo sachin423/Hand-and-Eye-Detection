@@ -1,1 +1,1 @@
-# Hand-and-Eye-Detection
+# Hand and Eye Gesture Recognition
